@@ -1,0 +1,15 @@
+.child-login-form{
+    display: grid;
+}
+#child-login-email,#child-login-password{
+    border-radius: 5px;
+    padding:5px;
+    margin-bottom: 7px;
+    border : 2px solid #585858;
+    box-shadow: none;
+    width:230px;
+    height:35px;
+}
+#child-login-email:focus,#child-login-password:focus{
+    outline:none;
+}
