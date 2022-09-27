@@ -7,8 +7,25 @@
     margin-bottom: 7px;
     border : 2px solid #585858;
     box-shadow: none;
-    width:230px;
     height:35px;
+}
+#child-login-proceed{
+    border-radius: 5px;
+    padding:5px;
+    height:30px;
+    border : 2px solid #585858;
+    box-shadow: none;
+    font-size: 16px;
+    line-height: 1;
+    color:#666;
+    cursor:pointer;
+    background-color: #3EA472;
+    color:#fff;
+    transition: background-color 200ms ease-out 100ms, color 200ms ease-out 100ms
+}   
+#child-login-proceed:hover{
+    background-color: #fff;
+    color: #3EA472;
 }
 #child-login-email:focus,#child-login-password:focus{
     outline:none;
