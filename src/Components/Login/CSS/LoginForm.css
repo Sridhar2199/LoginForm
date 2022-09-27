@@ -21,7 +21,7 @@
     cursor:pointer;
     background-color: #3EA472;
     color:#fff;
-    transition: background-color 200ms ease-out 100ms, color 200ms ease-out 100ms
+    transition: background-color 100ms ease-out 100ms, color 100ms ease-out 100ms
 }   
 #child-login-proceed:hover{
     background-color: #fff;
