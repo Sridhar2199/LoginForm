@@ -8,6 +8,7 @@
     border : 2px solid #585858;
     box-shadow: none;
     height:35px;
+    width:250px;
 }
 #child-login-proceed{
     border-radius: 5px;
